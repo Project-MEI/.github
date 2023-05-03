@@ -4,5 +4,5 @@
 <p align="center">Each repository is subject to their own license and usage condition.</p>
 
 <p align="center"><b>Contact:</b> raiden at project-mei dot xyz<br>
-<b>Shogun's Discord: https://dsc.gg/shogun</b>
+<b>Shogun's Discord: https://dsc.gg/transience</b>
 </p>
