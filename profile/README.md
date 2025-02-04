@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://old.project-mei.xyz/images/logo-full.png"height="150"></center></h1>
+<h1 align="center"><img src="https://v1.project-mei.xyz/images/logo-full.png" height="150"></center></h1>
 <p align="center">A GitHub organization to host all the forks of open-source cogs modified for use on <a href="https://project-mei.xyz/">Shogun</a>.</p>
 
 <p align="center">Each repository is subject to their own license and usage condition.</p>
